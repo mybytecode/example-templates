@@ -1,7 +1,7 @@
-##Starter template for Basic Authentication using JWT and ExpressJS
+## Starter template for Basic Authentication using JWT and ExpressJS
 
 
-#####To get started hit the following commands.
+##### To get started hit the following commands.
 - ```npm install```
 - ```npm run dev```
 
